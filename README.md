@@ -2,7 +2,6 @@
 Simple fullstack Spring Boot and React app for students management:
 
 ## Tech stack
-### Backend
 - Java 17
 - Spring Boot
 - Hibernate
@@ -10,7 +9,8 @@ Simple fullstack Spring Boot and React app for students management:
 - MySQL 
 - Flywaydb
 - BuildTool - Gradle
+- Docker-Compose
+- UI: ReactJs framework
 
-#### Frontend:
-- ReactJs framework
+
 
