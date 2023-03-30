@@ -1,3 +1,4 @@
 rootProject.name = 'school-managment'
 include 'backend'
+include 'frontend'
 
