@@ -9,8 +9,12 @@ Simple fullstack Spring Boot and React app for students management:
 - MySQL 
 - Flywaydb
 - BuildTool - Gradle
-- Docker-Compose
 - UI: ReactJs framework
 
+<img src="img/img.png" width="25%" height="25%"/>
 
+<img src="img/img.png" width="25%" height="25%"/>
+
+## Run
+`docker-compose up`
 
