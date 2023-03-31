@@ -37,4 +37,9 @@ public class StatisticServiceImpl implements StatisticService {
                 .filter(std -> std.getCity().equalsIgnoreCase(course))
                 .collect(Collectors.toList());
     }
+
+    @Override
+    public int countAllStudentsByCourse(String courseName) {
+        return findAllStudentsByCourse(courseName).size();
+    }
 }

@@ -10,4 +10,6 @@ public interface StatisticService {
 
     List<Student> findAllStudentsByCourse (String courseName);
 
+    int countAllStudentsByCourse (String courseName);
+
 }
