@@ -17,10 +17,16 @@ Simple fullstack Spring Boot and React app for students management:
 <img src="img/img1.png" width="25%" height="25%"/>
 
 ## Run
-Use for start:
+Dev: 
+- run frontend by `npm start`
+- run backend with `dev` profile
+
+Docker compose:
+
+- Use for start:
 `docker-compose up`
 
-Use for stop:
+- Use for stop:
 `docker-compose stop`
 
 
